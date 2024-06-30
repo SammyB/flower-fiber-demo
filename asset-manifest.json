@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flower-fiber-demo/static/css/main.8c536959.css",
+    "main.js": "/flower-fiber-demo/static/js/main.45281322.js",
+    "static/js/453.569596b9.chunk.js": "/flower-fiber-demo/static/js/453.569596b9.chunk.js",
+    "index.html": "/flower-fiber-demo/index.html",
+    "main.8c536959.css.map": "/flower-fiber-demo/static/css/main.8c536959.css.map",
+    "main.45281322.js.map": "/flower-fiber-demo/static/js/main.45281322.js.map",
+    "453.569596b9.chunk.js.map": "/flower-fiber-demo/static/js/453.569596b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c536959.css",
+    "static/js/main.45281322.js"
+  ]
+}
