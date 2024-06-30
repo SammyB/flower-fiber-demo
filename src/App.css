@@ -1,0 +1,31 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.controls {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 10px;
+  border-radius: 5px;
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input[type="range"] {
+  width: 200px;
+}
+
+.react-colorful {
+  width: 150px !important;
+  height: 150px !important;
+}
