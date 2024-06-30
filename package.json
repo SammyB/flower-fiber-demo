@@ -2,6 +2,7 @@
   "name": "flower-fiber-demo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://sammyb.github.io/flower-fiber-demo",
   "dependencies": {
     "@react-three/drei": "^9.107.3",
     "@react-three/fiber": "^8.16.8",
@@ -20,7 +21,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
